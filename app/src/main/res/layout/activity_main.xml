@@ -12,7 +12,7 @@
         android:layout_marginStart="140dp"
         android:background="#9C1C1B"
         android:clickable="true"
-        android:text="merhaba dünya.>"
+        android:text="merhaba techlife.>"
         android:textColor="#F6F6F6"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
