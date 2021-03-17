@@ -10,7 +10,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="140dp"
-        android:background="#9C1C1C"
+        android:background="#9C1C1B"
         android:clickable="true"
         android:text="merhaba dünya.>"
         android:textColor="#F6F6F6"
